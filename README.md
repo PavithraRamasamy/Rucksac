@@ -22,3 +22,13 @@ We learned on how to use Firebase, Android Studio and Adobe XD for this app
 
 <b>What's next for Rucksac</b><br>
 We wish to make a fully functional app that includes all the features mentioned above and launch it in the playstore.
+
+<b>Built With</b><br>
+Android Studio
+Google Firebase
+Adobe XD
+Marvelapp
+
+<b>Try it out</b>
+<a href = "https://marvelapp.com/44bdi7b/screen/40847852">Rucksac</a>
+
