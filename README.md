@@ -6,7 +6,7 @@ Many times people want to travel together but have to use a plethora of apps suc
 <b>What it does</b><br>
 The app will feature trip itinerary which will include the places they plan to visit, the time at which they wish to start and will also send out reminders to all users regarding upcoming activities. It also includes an in-app chat through which the travelers connect with each other during their journey and, share pictures and other media. Aside from chatting and itinerary features, the app also introduces wallet where each traveler can view the expenses incurred and pay the balances they owe to others during the trip.
 
-<b>How we built it</b><br>
+<br><b>How we built it</b><br>
 Initially, in the design phase, we used Adobe XD to create and manage the screens. To provide interactivity and to understand the flow of the app, we imported the screens from Adobe XD to Marvel app and visualized the flow and direction of each screen in the app.
 
 The app was developed using Android Studio and Firebase.
