@@ -1,5 +1,5 @@
 # Rucksac
-<img src="Rucksack_icon.png" alt-text="Rucksac logo integrating a person walking on a trail with a rucksac on the back and when inverted looks like a footprint">
+<img src="Rucksack_icon.png">
 <b>Inspiration</b><br>
 Many times people want to travel together but have to use a plethora of apps such as Splitwise, Google Maps, Whatsapp etc., to aid them in their journey. When friends want to travel together, it is required to have all these different apps which might be cumbersome. Our aim is to solve this problem by incorporating all travel related activities in a single app that would benefit all travelers.
 
